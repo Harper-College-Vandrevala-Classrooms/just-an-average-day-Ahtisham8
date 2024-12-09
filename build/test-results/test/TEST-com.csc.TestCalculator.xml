@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.csc.TestCalculator" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-12-09T02:59:45" hostname="DESKTOP-H3UO8NH" time="0.024">
+  <properties/>
+  <testcase name="testMaximumFunctionForLoop()" classname="com.csc.TestCalculator" time="0.011"/>
+  <testcase name="testMaximumStreams()" classname="com.csc.TestCalculator" time="0.001"/>
+  <testcase name="testSumFunctionForLoop()" classname="com.csc.TestCalculator" time="0.0"/>
+  <testcase name="testMinimumFunctionForLoop()" classname="com.csc.TestCalculator" time="0.0"/>
+  <testcase name="testMinimumStreams()" classname="com.csc.TestCalculator" time="0.001"/>
+  <testcase name="testsumStreams()" classname="com.csc.TestCalculator" time="0.001"/>
+  <testcase name="testAvgFunctionForLoop()" classname="com.csc.TestCalculator" time="0.0"/>
+  <testcase name="testAvgStreams()" classname="com.csc.TestCalculator" time="0.003"/>
+  <testcase name="itWorks()" classname="com.csc.TestCalculator" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
