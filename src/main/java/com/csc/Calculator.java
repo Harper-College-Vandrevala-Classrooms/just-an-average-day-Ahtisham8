@@ -75,6 +75,16 @@ public class Calculator {
     double avg = Arrays.stream(nums).mapToDouble(no->no).average().getAsDouble();
     return avg;
   }
+  public int[] filterEvensOnly(int[] nums)
+  {
+    int[] evens = Arrays.stream(nums).filter(n -> n % 2 == 0).toArray();
+    return evens;
+  }
+  public int[] filterOddsOnly(int[] nums)
+  {
+    int[] odds = Arrays.stream(nums).filter(n -> n % 2 == 1).toArray();
+    return odds;
+  }
 
   public static void main(String[] args) {
     System.out.println("This class can house your driver program and / or your functions.");
